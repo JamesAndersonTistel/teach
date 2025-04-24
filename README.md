@@ -1,3 +1,4 @@
 # teach
-Create some web apps to teach various fundamental topics. With start
-with math fundamentals.
+Programming knowlege is fairly common now, but, there seems to be
+ignorance of fundamentals. Will start with math fundamentals. Will
+also start with ClojureScript.
