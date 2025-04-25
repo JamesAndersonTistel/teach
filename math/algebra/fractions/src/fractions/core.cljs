@@ -1,3 +1,3 @@
-(ns hello-world.core)
+(ns fractions.core)
 
 (println "Hello world!")
